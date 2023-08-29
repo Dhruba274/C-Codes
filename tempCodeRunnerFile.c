@@ -1,0 +1,1 @@
+/*The name of the programme file is always first arguments of the programmme.Other arguments can be passed while compiling the code. It wikll print the argument number*/
